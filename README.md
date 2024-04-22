@@ -46,7 +46,11 @@
   - 工作岗位：Web前端工程师
   - 部门：网云研发部
   - 技术栈：Vue
-
+- [百胜](https://www.yumchina.com/) &emsp;&emsp; 📌 2024.4-2024.
+  
+  - 工作岗位：IT实习生
+  - 部门：TSC
+  - 技术栈：Vue，React
 
 
 </td>
