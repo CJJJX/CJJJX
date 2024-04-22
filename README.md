@@ -39,13 +39,12 @@
   
 ### 🏢 Work Experience
 
-
-  
 - [中科星图](https://www.geovis.com.cn/) &emsp; 📌 2023.12-2024.3
   
-  - 工作岗位：Web前端工程师
+  - 工作岗位：前端实习生
   - 部门：网云研发部
   - 技术栈：Vue
+  <p/>
 - [百胜](https://www.yumchina.com/) &emsp;&emsp; 📌 2024.4-2024.
   
   - 工作岗位：IT实习生
@@ -91,4 +90,4 @@
  - <a href="https://cjjjx.github.io/">CJJJX's Blog</a>
  
 
- <img align="right" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CJJJX&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+ <img align="right" width="420" height="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CJJJX&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
