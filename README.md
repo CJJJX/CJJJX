@@ -14,9 +14,9 @@
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/-Vue-%232C3A42?style=flat-square&logo=vuedotjs">
-<!--   <img src="https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white"> -->
-<!--   <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> -->
-<!--   <img src="https://img.shields.io/badge/-Less-bf608e?style=flat&logo=less&logoColor=white"> -->
+  <img src="https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Less-bf608e?style=flat&logo=less&logoColor=white">
   <img src="https://img.shields.io/badge/-Sass-b37feb?style=flat&logo=sass&logoColor=white">
 
 </div>
@@ -38,18 +38,23 @@
 
   
 ### 🏢 Work Experience
-
+- [腾讯云智](https://cloud.tencent.com/) &emsp; 📌 2024.5-2024.
+  
+  - 工作岗位：前端实习生
+  - 部门：基础研发中心
+  - 技术栈：Vue，React，Mini-program
+- [百胜](https://www.yumchina.com/) &emsp;&emsp; 📌 2024.3-2024.5
+  
+  - 工作岗位：IT实习生
+  - 部门：TSC
+  - 技术栈：Vue
 - [中科星图](https://www.geovis.com.cn/) &emsp; 📌 2023.12-2024.3
   
   - 工作岗位：前端实习生
   - 部门：网云研发部
   - 技术栈：Vue
   <p/>
-- [百胜](https://www.yumchina.com/) &emsp;&emsp; 📌 2024.4-2024.
-  
-  - 工作岗位：IT实习生
-  - 部门：TSC
-  - 技术栈：Vue，React
+
 
 
 </td>
